@@ -2,12 +2,15 @@
 
 ## Documents
 
+详细算法说明请见以下文档，在release中也可以找到。
+
 [结题报告+康艺潇+518431910002.pdf](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986719/%2B.%2B518431910002.pdf)
+
 [可视计算中期报告_康艺潇_518431910002.pdf](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986721/_._518431910002.pdf)
+
 [中期汇报.pptx](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986722/default.pptx)
+
 [期末答辩.pptx](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986723/default.pptx)
-
-
 
 ### 以下文件是我们的项目文件，需要与SE362-Projects置于同一父目录下使用，结果将输出到相应目录下
 
