@@ -1,4 +1,16 @@
+# CT image segmentation of pulmonary fibrosis lesions
+
+## Documents
+
+[结题报告+康艺潇+518431910002.pdf](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986719/%2B.%2B518431910002.pdf)
+[可视计算中期报告_康艺潇_518431910002.pdf](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986721/_._518431910002.pdf)
+[中期汇报.pptx](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986722/default.pptx)
+[期末答辩.pptx](https://github.com/echo-xiao9/CT-image-segmentation-of-pulmonary-fibrosis-lesions/files/8986723/default.pptx)
+
+
+
 ### 以下文件是我们的项目文件，需要与SE362-Projects置于同一父目录下使用，结果将输出到相应目录下
+
 * processData.py: 处理入口，按输入的list处理相应的case，生成输出图片、标注文件和评估数据
 * dicomProcess.py: 包含处理dicom文件所用的方法，包括处理dicom文件生成数据集、处理dicom文件生成标注和结果图片、处理dicom文件生成标注和结果文件和评估数据
 * window.py: 包含用于分窗口处理图像的方法，包括分窗口处理图像生成数据集、分窗口处理图像生成mask
@@ -14,3 +26,7 @@ evaluating.py文件定义了分割算法和分类算法的评价指标，在预�
 * GLCM_prev.py、predict_prev.py、train_prev.py、toolFunc_prev.py，旧版代码，在这版代码的实验中我们发现了我们数据集和模型存在问题，后来对其进行了重构。这一版本代码是对我们最终结果有重要意义的尝试，故同时提交。
 * pretreatment.py，用于图片格式的数据预处理，提取肺实质前景，因为项目后期作业提供的数据集中已经完成了这部分工作，故没有在项目中应用。
 * ReticularPattern/，该文件夹下面是前期使用传统方法提取网状影的算法，因为只有网状影部分在前期工作中取得了较好效果，故同时提交这部分代码。# CT-image-segmentation-of-pulmonary-fibrosis-lesions
+
+
+
+Grade: 93/100
